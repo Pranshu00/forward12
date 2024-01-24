@@ -1,0 +1,6 @@
+pyromod
+pyrogram
+tgcrypto
+pymongo
+motor
+pytz
